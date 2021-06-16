@@ -1,5 +1,5 @@
 - Hi, I’m @prasanna-b12
-- I’m fascinated to do an analytics work
+- I’m focused on Data Science field
 
 IMDB
 ---------
