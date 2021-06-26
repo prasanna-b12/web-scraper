@@ -1,4 +1,4 @@
-- Hi, I’m @prasanna-b12
+- Hi, I’m prasanna
 - I’m focused on Data Science field
 
 IMDB
