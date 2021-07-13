@@ -1,5 +1,5 @@
 - Hi, I’m prasanna
-- I’m focused on Data Science field
+- I Developed this scraper as one of my academic project's
 
 IMDB
 ---------
